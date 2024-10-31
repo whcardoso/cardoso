@@ -16,6 +16,8 @@ Desenvolvedor front-end, graduado em Marketing pela universidade UNOPAR e um ver
 [![python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python)](#)
 [![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)](#)
 [![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)](#)
+[![SQL](https://img.shields.io/badge/PL%2FSQL-000?style=for-the-badge&logo=oracle)](#)
+
 
 ### Bibliotecas e Frameworks
 [![react](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)](#)
@@ -28,6 +30,8 @@ Desenvolvedor front-end, graduado em Marketing pela universidade UNOPAR e um ver
 ### Cloud Computing Service
 [![Clouflare](https://img.shields.io/badge/Cloudflare-000?style=for-the-badge&logo=Cloudflare)](#)
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel)](#)
+[![Azure](https://img.shields.io/badge/Azure-000?style=for-the-badge&logo=microsoft%20azure)](#)
+
 
 ### Ferramentas
 [![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git)](#)
